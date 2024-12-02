@@ -22,4 +22,4 @@ This project is an affiliate marketing platform designed to showcase products in
 
 
 
-file:///C:/Users/user/Downloads/screencapture-themepush-demo-mediumish-2024-12-01-23_53_46.png
+See the screshoot 2nd last file for front view
